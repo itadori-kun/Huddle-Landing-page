@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/huddle-landing-page-PkTWbu1FGV)
-- Netlify URL: [Add live site URL here](https://huddle-landing-page-from-frontend.netlify.app/)
+- Solution URL: [frontendmentor @itadori-kun](https://www.frontendmentor.io/solutions/huddle-landing-page-PkTWbu1FGV)
+- Netlify URL: [Netlify](https://huddle-landing-page-from-frontend.netlify.app/)
 
 ## My process
 
