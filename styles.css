@@ -42,7 +42,6 @@ p, a, li{
 header{
     background-image: url(/images/bg-hero-desktop.svg);
     height: 90vh;
-    max-width: 1440px;
     width:100vw;
     background-repeat: no-repeat;
     background-position: cover;
@@ -53,7 +52,6 @@ header{
 
 main{
     position: relative;
-    max-width: 1440px;
     width: 100vw;
 }
 
